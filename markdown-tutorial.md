@@ -5,3 +5,30 @@
 
 ### Third level title
 
+# Text formatting
+
+The following four words **are in bold typeface**, but the rest are not.
+The following four words *are in italic typeface*, but the rest are not.
+
+> text blockquote
+
+# Lists
+1. Item one
+2. Item two
+3. Item three
+
+- Item one
+- Item two
+- Item three
+
+# Adding code
+```
+def printMyName(name):
+   a = name
+   print(a)
+```
+
+# Links
+
+[Markdown Guide](https://www.markdownguide.org/)
+
