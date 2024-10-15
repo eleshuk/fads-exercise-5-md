@@ -36,3 +36,9 @@ def printMyName(name):
 ![Logo do ISA](./images/LogoISA.png)
 
 The path to this image points to a folder called "images" where the image is stored. 
+
+# Adding tables
+|ID| Column 1| Column 2| Column 3|
+|--|---------|---------|---------|
+|1 | item 1  | item 2  | item 3  |
+|2 | item 4  | item 5  | item 6  |
