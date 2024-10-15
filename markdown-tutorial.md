@@ -33,6 +33,6 @@ def printMyName(name):
 [Markdown Guide](https://www.markdownguide.org/)
 
 # Image
-![Logo do ISA](./images/logo_ISA.png)
+![Logo do ISA](./images/LogoISA.png)
 
 The path to this image points to a folder called "images" where the image is stored. 
